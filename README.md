@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an example project, spun up to show an easy way to connect to GPT using Ruby on Rails
 
-Things you may want to cover:
+Feel free to fork and clone
+Run with `bundle install` and `rails s`
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Check out the tutorial for this and more at austn.net
+Email me if needed: hi [@] austn.net
