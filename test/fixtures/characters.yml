@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  trait_1: MyString
+  trait_2: MyString
+  backstory: MyString
+
+two:
+  name: MyString
+  trait_1: MyString
+  trait_2: MyString
+  backstory: MyString
